@@ -4,3 +4,9 @@ In this project, I am going to display the power of Deep Neural Networks (Multi-
 
 If a particle is subject to a known potential $\mathbb{V}(\boldsymbol{x})$, we need to find the find it's wave function $\boldsymbol{\psi}(\boldsymbol{x})$ that satisfies the following relation:
 $$-\frac{\boldsymbol{\Sigma}_m(\boldsymbol{x})}{2}\boldsymbol{\Delta\psi}(\boldsymbol{x})+\mathbb{V}(\boldsymbol{x})\boldsymbol{\psi}(\boldsymbol{x})=\mathbb{E}\boldsymbol{\psi}(\boldsymbol{x})$$
+
+
+
+## References
+Computational Physics: Problem-Solving with Computers, Rubin H. Landau et al. 
+https://books.google.fr/books/about/Computational_Physics.html?id=RBg-vgAACAAJ&redir_esc=y
