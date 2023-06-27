@@ -1,4 +1,5 @@
+.gitignore
 .conda
 DNN.ipynb
-DNN_final.ipynb
 models
+print_nb.ipynb
