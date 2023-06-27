@@ -1,6 +1,7 @@
 # Schrodinger-equation-DNN
 
-In this project, I am going to display the power of Deep Neural Networks (Auto-encoder architecture) to solve the 1D time-independent Schrödinger equation.
+
+In this project, I am going to display the power of Deep Neural Networks (in this case an autoencoder) to solve the 1D time-independent Schrödinger equation for potentials of the type $\boldsymbol{V}(x) = \boldsymbol{\Sigma}_i \boldsymbol{\alpha}_i x^i$. The network will essentially learn a non-linear map between the potential of a particle and the associated wave function of a particle.
 
 If a particle is subject to a known potential $\boldsymbol{V}(x)$, we need to find the find it's wave function $\boldsymbol{\psi}(\boldsymbol{x})$ that satisfies the following relation:
 
