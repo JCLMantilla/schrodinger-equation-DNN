@@ -1,5 +1,10 @@
 # Schrodinger-equation-DNN
+## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE!
 
+### TODO: 
+  - Organize physics-related code in different scripts
+  - Change the autoencoder into TensorFlow Functional API
+  - Change the simulation data generation into a Python generator and use it to feed the data into the autoencoder model for training
 
 In this project, I am going to display the power of Deep Neural Networks (in this case an autoencoder) to solve the 1D time-independent Schrödinger equation.
 
