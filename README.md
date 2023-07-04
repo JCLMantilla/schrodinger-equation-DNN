@@ -1,10 +1,11 @@
-# Schrodinger-equation-DNN
-## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE! These are the changes I am working on
+
+## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE! These are the changes I am working on:
   - Add documentation
   - Organize physics-related code in different scripts
   - Change the autoencoder into TensorFlow Functional API
   - Change the simulation data generation into a Python generator and use it to feed the data into the autoencoder model for training
 
+# Schrodinger-equation-DNN
 In this project, I am going to display the power of Deep Neural Networks (in this case an autoencoder) to solve the 1D time-independent Schrödinger equation.
 
 If a particle is subject to a known potential $\boldsymbol{V}(x)$, we need to find the find it's wave function $\boldsymbol{\psi}(\boldsymbol{x})$ that satisfies the following relation:
