@@ -1,7 +1,6 @@
 # Schrodinger-equation-DNN
-## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE!
-
-### TODO: 
+## ATTENTION! THIS PROJECT IS UNDER MAINTENANCE! These are the changes I am working on
+  - Add documentation
   - Organize physics-related code in different scripts
   - Change the autoencoder into TensorFlow Functional API
   - Change the simulation data generation into a Python generator and use it to feed the data into the autoencoder model for training
